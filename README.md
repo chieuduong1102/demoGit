@@ -8,3 +8,4 @@ Chả có cái vẹo gì đâu :)
 *** git log + git show
     git log
     git show + id log
+    git diff
