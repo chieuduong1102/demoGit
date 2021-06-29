@@ -1,0 +1,43 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex 4f28f9a..32e231f 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -8,4 +8,6 @@[m [mChả có cái vẹo gì đâu :)[m
+ *** git log + git show[m
+     git log[m
+     git show + id log[m
+[31m-    git diff[m
+\ No newline at end of file[m
+[32m+[m[32m    git diff[m
+[32m+[m
+[32m+[m[32m***[m[41m [m
+\ No newline at end of file[m
+[1mdiff --git a/cat.js b/cat.js[m
+[1mindex 8f4196b..3d26387 100644[m
+[1m--- a/cat.js[m
+[1m+++ b/cat.js[m
+[36m@@ -1,5 +1,6 @@[m
+ function Cat(name) {[m
+     this.name = name;    [m
+[32m+[m[32m    this.coach = [];[m
+ }[m
+ [m
+ module.export = Cat;[m
+\ No newline at end of file[m
+[1mdiff --git a/mouse.js b/mouse.js[m
+[1mindex e52e2d4..b8fa341 100644[m
+[1m--- a/mouse.js[m
+[1m+++ b/mouse.js[m
+[36m@@ -1,6 +1,11 @@[m
+ //Contructor[m
+ function Mouse(name){[m
+     this.name = name;[m
+[32m+[m[32m    this.dead = false;[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32mMouse.prototype = function(){[m
+[32m+[m[32m    this.dead = true[m[41m    [m
+ }[m
+ [m
+ module.export = Mouse;[m
+\ No newline at end of file[m
