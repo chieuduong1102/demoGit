@@ -17,3 +17,4 @@ Chả có cái vẹo gì đâu :)
     git checkout tenbranch : switch branch
     git merge : check out sang branch A , git merge B
     A <--- B
+    git branch -D tenbranch : xóa branch
