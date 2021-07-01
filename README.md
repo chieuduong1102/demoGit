@@ -15,4 +15,5 @@ Chả có cái vẹo gì đâu :)
 
 *** git checkout -b tenbranch : tự động tạo mới branch và checkout sang branch mới.
     git checkout tenbranch : switch branch
-    git 
+    git merge : check out sang branch A , git merge B
+    A <--- B
