@@ -1,0 +1,14 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "description": "Cái project này được tạo ra để tự học Git thôi.\r Chả có cái vẹo gì đâu :)\r *** git init\r     git status\r     git add tênfile\r     git commit -m 'mô tả'",
+  "main": "bird.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.1"
+  }
+}
