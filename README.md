@@ -10,4 +10,5 @@ Chả có cái vẹo gì đâu :)
     git show + id log
     git diff
 
-*** 
+*** git status => git restore +ten file  để hoàn tác(restore) lại file trước khi chỉnh sửa.
+    git reset HEAD +tenfile để hoàn tác git add 
