@@ -18,3 +18,6 @@ Chả có cái vẹo gì đâu :)
     git merge : check out sang branch A , git merge B
     A <--- B
     git branch -D tenbranch : xóa branch
+
+*** git reset --soft IDcommit : trở về trạng thái chưa commit
+    git reset --mixed IDcommit: trở về trạng thái chưa commit, chưa add.
