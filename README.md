@@ -27,6 +27,6 @@ Chả có cái vẹo gì đâu :)
     .gitignore: tạo file .gitignore để lưu tên các file các thư mục không cần commit, bằng cách lưu tên file hoặc thư mục vào trong đó
 
 *** Sử dụng github: 
-    git remove add origin linkGit : liene ket voi GitHub
+    git remote add origin linkGit : liene ket voi GitHub
     git push -u origin tenBranchTrenGitHub: lần đầu tiên
     git push
