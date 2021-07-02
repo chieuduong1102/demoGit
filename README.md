@@ -26,4 +26,7 @@ Chả có cái vẹo gì đâu :)
     npm install teenDependencies --save: để cài đặt dependencies . --save để lưu vào package.json, sau này máy khác chỉ cần gõ : npm install là sẽ tự động cài các dependencies trong package.json
     .gitignore: tạo file .gitignore để lưu tên các file các thư mục không cần commit, bằng cách lưu tên file hoặc thư mục vào trong đó
 
-*** Sử dụng github:
+*** Sử dụng github: 
+    git remove add origin linkGit : liene ket voi GitHub
+    git push -u origin tenBranchTrenGitHub
+    git push
