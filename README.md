@@ -25,3 +25,5 @@ Chả có cái vẹo gì đâu :)
 *** npm init  : tạo ra 1 file pakage.json để lưu những thông tin về proj cũng như các dependencies ().
     npm install teenDependencies --save: để cài đặt dependencies . --save để lưu vào package.json, sau này máy khác chỉ cần gõ : npm install là sẽ tự động cài các dependencies trong package.json
     .gitignore: tạo file .gitignore để lưu tên các file các thư mục không cần commit, bằng cách lưu tên file hoặc thư mục vào trong đó
+
+*** Sử dụng github:
