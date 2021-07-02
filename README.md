@@ -28,5 +28,5 @@ Chả có cái vẹo gì đâu :)
 
 *** Sử dụng github: 
     git remove add origin linkGit : liene ket voi GitHub
-    git push -u origin tenBranchTrenGitHub
+    git push -u origin tenBranchTrenGitHub: lần đầu tiên
     git push
