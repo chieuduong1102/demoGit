@@ -30,3 +30,5 @@ Chả có cái vẹo gì đâu :)
     git remote add origin linkGit : liene ket voi GitHub
     git push -u origin tenBranchTrenGitHub: lần đầu tiên
     git push
+    git clone linkTrenGitHub : clone code về
+    git pull
