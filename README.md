@@ -31,4 +31,4 @@ Chả có cái vẹo gì đâu :)
     git push -u origin tenBranchTrenGitHub: lần đầu tiên
     git push
     git clone linkTrenGitHub : clone code về
-    git pull
+    git pull : pull các thay đổi về
