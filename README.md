@@ -32,3 +32,9 @@ Chả có cái vẹo gì đâu :)
     git push
     git clone linkTrenGitHub : clone code về
     git pull : pull các thay đổi về
+
+*** Git push a branch:
+    git checkout -b tenBranch: tạo branch mới
+    code chán chê mê mỏi đi rồi add -> commit
+    git push origin tenBranch: tạo mới branch trên GitHub và push code lên đó.
+    
