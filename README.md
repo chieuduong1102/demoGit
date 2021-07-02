@@ -41,3 +41,4 @@ Chả có cái vẹo gì đâu :)
 *** Pull request trên github:
     Tạo mới pull request:
     check changed and review: Review changes
+    Chú ý Branch trên git và git hub
