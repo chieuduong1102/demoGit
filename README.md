@@ -42,3 +42,6 @@ Chả có cái vẹo gì đâu :)
     Tạo mới pull request:
     check changed and review: Review changes
     Chú ý Branch trên git và git hub
+
+*** git fetch origin tenBranch : để fetch code từ branch đó về test
+    git checkout tenBranch: sau đó test.
