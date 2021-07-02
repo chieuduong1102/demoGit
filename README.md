@@ -37,4 +37,7 @@ Chả có cái vẹo gì đâu :)
     git checkout -b tenBranch: tạo branch mới
     code chán chê mê mỏi đi rồi add -> commit
     git push origin tenBranch: tạo mới branch trên GitHub và push code lên đó.
-    
+
+*** Pull request trên github:
+    Tạo mới pull request:
+    check changed and review: Review changes
